@@ -85,9 +85,7 @@ npm run dev     # Start with nodemon
 npm tes         # Run test cases
 ```
 ## Contributors
-<a href="https://github.com/koemseang">
-  <img src="https://avatars.githubusercontent.com/koemseang" width="80px;"alt="koemseang"/>
-</a>
+![@koemseang](https://contrib.rocks/image?repo=koemseang/Readme-homework)
 
 ## License
 #### This project is licensed under the MIT License. See the LICENSE file for more details.
