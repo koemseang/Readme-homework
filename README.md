@@ -1,17 +1,17 @@
 
-##🏩 Flower Shop
+ ## 🏩Flower Shop
 
 ![app](https://img.shields.io/badge/Customer_Service_Representative-Delivery-pink)
 #### A flower shop typically has several key positions. These include a floral designer (or florist), customer service representative, and delivery driver. Other roles, depending on the shop's size, might include a studio manager, front office person, and staff for accounting and payroll. 
 
-## Flower Content
+## 🎃Flower Content
 - [FLOWERS](#FLOWERS)
 - [OCCASION](#OCCASION)
 - [VALENTINES DAY](#VALENTINES_DAY)
 - [BIRTHDAYS](#BIRTHDAY)
 - [GIFTS](#GIFTS)
 - [CAKE](#CAKE)
-## Feature
+## 🛒Feature
 - High Visibility
 - Parking Availability
 - Local SEO
