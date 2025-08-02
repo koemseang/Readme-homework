@@ -37,8 +37,9 @@
 git clone https://github.com/your-username/school-management-system.git 
 
 ```
-``` 
-cd school-management-system
+```md
+---
+#cd school-management-system
 ```
 ```
 npm install
@@ -81,7 +82,7 @@ print(string[Lenght-i],end=")
 ```
 npm start       # Start the server
 npm run dev     # Start with nodemon
-npm test        # Run test cases
+npm tes         # Run test cases
 ```
 ## Contributors
 <a href="https://github.com/koemseang">
