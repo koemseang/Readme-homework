@@ -44,7 +44,7 @@ cd school-management-system
 npm install
 ```
 ## Screenshot
-![app](flower.jpg)
+![app](flo.jpg)
 
 ## Usage
 #### To run the server in development mode:
@@ -84,7 +84,10 @@ npm run dev     # Start with nodemon
 npm test        # Run test cases
 ```
 ## Contributors
-![@koemseang] (seang.jpg)
+<a href="https://github.com/koemseang">
+  <img src="https://avatars.githubusercontent.com/koemseang" width="80px;"alt="koemseang"/>
+</a>
+
 ## License
 #### This project is licensed under the MIT License. See the LICENSE file for more details.
 ```
