@@ -93,7 +93,7 @@ npm test        # Run test cases
 
 ```md
 ---
-**Let me know:**
+Let me know: 
 - if your project uses MongoDB or MySQL (so I can adjust that part),
 - if you want to include screenshots or setup diagrams,
 - or if you'd like this saved as a downloadable `.md` file.
