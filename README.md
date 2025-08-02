@@ -11,8 +11,6 @@
 - [BIRTHDAYS](#BIRTHDAY)
 - [GIFTS](#GIFTS)
 - [CAKE](#CAKE)
-
-<a href="https://getbootstrap.com/" target="_blank"> Click Me</a>
 ## Feature
 - High Visibility
 - Parking Availability
@@ -62,11 +60,14 @@ npm start
 https://phnompenhflower.com
 ```
 ## API Endpoints
+
 | Name     | Birthday  | Flower  |
+|---       | ------    | ------- |
 | Mles     | Rodoul    | Rose    |
 | Romdeng  | Endome    | loka    |
 | Red Rose | Purle     | Hout    |
 | Mles Roud| Blue d    | rouy    |
+
 
 ## Environment Variables
 #### Create a .env file in the root directory and add:
