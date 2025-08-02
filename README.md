@@ -71,7 +71,7 @@ https://phnompenhflower.com
 
 ## Environment Variables
 #### Create a .env file in the root directory and add:
-```
+```python
 string="Hello"
 Lenght=len(string)-1
 for i in range(len(string)):
