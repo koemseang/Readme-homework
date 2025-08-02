@@ -39,7 +39,7 @@ git clone https://github.com/your-username/school-management-system.git
 ```
 ```md
 ---
-#cd school-management-system
+cd school-management-system
 ```
 ```
 npm install
